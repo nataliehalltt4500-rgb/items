@@ -1,0 +1,12 @@
+[
+    {
+        "id": "example",
+        "image": "example.png",
+        "tags": ["sample", "test"]
+    },
+    {
+        "id": "example2",
+        "image": "example2.png",
+        "tags": ["sample", "test"]
+    }
+]
